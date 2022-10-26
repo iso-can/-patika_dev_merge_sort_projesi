@@ -1,5 +1,5 @@
 # -patika_dev_merge_sort_projesi  
-##Patika.dev ##https://app.patika.dev/pmerve Patika.dev'de veri yapıları kursu için yapılan proje  
+##Patika.dev  
 
 
 Soru-1) [16,21,11,8,12,22] -> Merge Sort  
